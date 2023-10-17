@@ -11,6 +11,7 @@ Moopey1/Moopey1 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Interested in hardware, software development and playing video games.
+
 Right now I am learning HTML, CSS and JS, I'm very new to this and I'm eager to learn!
 
 Eventually I would love to add something to a ongoing project and maybe in the future start my own project(s)!
