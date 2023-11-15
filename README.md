@@ -14,5 +14,5 @@ Interested in hardware, software development and playing video games.
 
 Right now I am learning HTML, CSS and JS, I'm very new to this and I'm eager to learn!
 
-Eventually I would love to add something to a ongoing project and maybe in the future start my own project(s)!
+Eventually I would love to add something to an ongoing project and maybe in the future start my own project(s)!
 
